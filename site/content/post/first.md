@@ -1,6 +1,6 @@
 +++
 date = "2015-12-16T13:52:40+09:00"
-draft = false
+draft = true
 title = "Hello, here's Ogiqvo."
 
 +++

@@ -1,6 +1,6 @@
 +++
 date = "2015-12-16T14:53:29+09:00"
-draft = false
+draft = true
 title = "Tokyo | Ogiqvo is out"
 
 +++
@@ -31,10 +31,5 @@ Let's have a look at the features.
   * [Marunouchi line](https://en.wikipedia.org/wiki/Tokyo_Metro_Marunouchi_Line) (Tokyo Metro)
 * It contains all map data and timetable data itself, so network connection isn't needed after app installation.
 
-Since the Vector tile maps library is licesned under [Lesser GNU Public License version 3](http://www.gnu.org/licenses/lgpl-3.0.html), Tokyo | Ogiqvo is also LGPLv3. You can download the source code from [here](https://github.com/ogiqvo/ogiqvo.com-opensciencemap-lgplv3).
+Since the Vector tile maps library is licensed under [Lesser GNU Public License version 3](http://www.gnu.org/licenses/lgpl-3.0.html), Tokyo | Ogiqvo is also LGPLv3. You can download the source code from [here](https://github.com/ogiqvo/ogiqvo.com-opensciencemap-lgplv3).
 
-東京の列車が世界でも類を見ないほど頻繁に発着することはよく知られており、それらが1日に3,000本も発着する[東京駅](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%A7%85)ともなれば想像もできないほどの忙しさであることは想像に難くありません。
-
-しかし駅が広大であることや、一部の列車は地下を走っていることもあり、列車が**どれだけ激しく**発着しているかを一望できる場所は地球上に存在しません。
-
-[*Tokyo | Ogiqvo*](https://play.google.com/store/apps/details?id=com.ogiqvo.view.tokyo)は、東京駅を発着するすべての列車を3次元空間に再現するAndroid向けのアプリです。任意の時刻を設定すると、その時間に走っている列車とその位置を表示します。
