@@ -9,7 +9,7 @@ tags = ["tokyo","ogiqvo"]
 
 ![Screenshot](/img/feature_graphic.png)
 
-東京駅を廻すAndroid向けのアプリ「**[Tokyo | Ogiqvo](https://play.google.com/store/apps/details?id=com.ogiqvo.view.tokyo)**」を開発いたしました。
+[東京駅](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%A7%85)を廻すAndroid向けのアプリ「**[Tokyo|Ogiqvo](https://play.google.com/store/apps/details?id=com.ogiqvo.view.tokyo)**」を開発いたしました。
 
 ![Icon](/img/raster-tokyo.png)
 
@@ -47,7 +47,6 @@ Androidタブレットと電池残量さえあれば世界有数のターミナ�
 
 ![Tokyo rails](/img/tokyo-rails.png)
 
-使用しております[Vector tile maps](https://github.com/opensciencemap/vtm)ライブラリは[Lesser GNU Public License version 3](http://www.gnu.org/licenses/lgpl-3.0.html)なので、Tokyo | OgiqvoもLGPLv3です。ソースコードは[こちら](https://github.com/ogiqvo/ogiqvo.com-opensciencemap-lgplv3)から入手できます。
+使用しております[Vector tile maps](https://github.com/opensciencemap/vtm)ライブラリは[Lesser GNU Public License version 3](http://www.gnu.org/licenses/lgpl-3.0.html)なので、Tokyo|OgiqvoもLGPLv3です。ソースコードは[こちら](https://github.com/ogiqvo/ogiqvo.com-opensciencemap-lgplv3)から入手できます。
 
 ![Icon](/img/icon_144.png)
-
