@@ -1,3 +1,9 @@
-baseurl = "http://www.ogiqvo.com/"
-languageCode = "en-us"
-title = "Ogiqvo"
+BaseUrl = "http://www.ogiqvo.com/"
+LanguageCode = "en-us"
+Title = "Ogiqvo"
+Copyright = "Ogiqvo Developement 2015 All rights reserved."
+
+[params]
+description = "Open Geographic Instruction Queue Visualizing Overlay"
+author = "Izumi Kawashima"
+googleAnalyticsUserID = "UA-71510728-1"
