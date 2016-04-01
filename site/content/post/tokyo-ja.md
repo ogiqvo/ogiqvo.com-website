@@ -3,7 +3,7 @@ date = "2015-12-16T18:25:21+09:00"
 draft = false
 title = "東京駅を廻そう。Tokyo|Ogiqvo、発売です！"
 isCJKLanguage = true
-tags = ["tokyo","ogiqvo"]
+tags = ["tokyo","ogiqvo","android"]
 
 +++
 
