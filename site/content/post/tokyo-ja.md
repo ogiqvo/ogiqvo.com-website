@@ -9,7 +9,7 @@ tags = ["tokyo","ogiqvo"]
 
 ![Screenshot](/img/feature_graphic.png)
 
-[東京駅](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%A7%85)を廻すAndroid向けのアプリ「**[Tokyo|Ogiqvo](https://play.google.com/store/apps/details?id=com.ogiqvo.view.tokyo)**」を開発いたしました。
+[東京駅](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E9%A7%85)を廻すAndroid向けのアプリ「**[Tokyo|Ogiqvo](https://play.google.com/store/apps/details?id=com.ogiqvo.view.tokyo)**」を開発いたしました(iOS版は[こちら](/post/tokyo-ios-ja))。
 
 ![Icon](/img/raster-tokyo.png)
 
