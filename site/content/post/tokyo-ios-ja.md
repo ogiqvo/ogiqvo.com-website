@@ -13,7 +13,7 @@ tags = ["tokyo","ogiqvo"]
 
 ![Icon](/img/raster-tokyo.png)
 
-**右下の円をぐるぐる廻すと、画面内の列車がその動きに追従するという、世にも珍しい感覚を味わうことができる、世界2に2つしかないアプリです(もう一方は[こちら](/post/tokyo-ja))。**
+**右下の円をぐるぐる廻すと、画面内の列車がその動きに追従するという、世にも珍しい感覚を味わうことができる、世界に2つしかないアプリです(もう一方は[こちら](/post/tokyo-ja))。**
 
 iPhoneあるいはiPadと電池残量さえあれば世界有数のターミナル駅である東京駅をいつでもどこでもぐるぐる廻せるおもちゃを**1,080円(税込み)でApp Storeにて販売いたします**。ひっきりなしに行き来する列車を見るのが大好きな、鉄道好きなお子様へのクリスマスプレゼントに、おひとついかがでしょうか？
 
@@ -41,4 +41,4 @@ iPhoneあるいはiPadと電池残量さえあれば世界有数のターミナ�
 
 使用しております[Vector tile maps](https://github.com/opensciencemap/vtm)ライブラリは[Lesser GNU Public License version 3](http://www.gnu.org/licenses/lgpl-3.0.html)なので、Tokyo|OgiqvoもLGPLv3です。ソースコードは[こちら](https://github.com/ogiqvo/ogiqvo.com-opensciencemap-lgplv3)から入手できます。
 
-![Icon](/img/icon_144.png)
+![Icon](/img/icon_120.png)
