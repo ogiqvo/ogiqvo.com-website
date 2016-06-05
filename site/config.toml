@@ -1,9 +1,65 @@
-BaseUrl = "http://www.ogiqvo.com/"
-LanguageCode = "en-us"
-Title = "Ogiqvo"
-Copyright = "Ogiqvo Developement 2015 All rights reserved."
+baseurl = "http://ogiqvo.com/"
+languageCode = "ja-JP"
+title = "オギクボ開発株式会社"
+theme="hugo-creative-theme"
+copyright = "Ogiqvo Developement 2015 All rights reserved."
 
 [params]
-description = "Open Geographic Instruction Queue Visualizing Overlay"
-author = "Izumi Kawashima"
-googleAnalyticsUserID = "UA-71510728-1"
+	name = "オギクボ開発株式会社"
+	description = ""
+	googleAnalyticsUserID = "UA-71510728-1"
+
+	[params.navigation]
+	brand = "オギクボ開発株式会社"
+
+	[params.navigation.links]
+	about = "About"
+	services = "Services"
+	portfolio = "Portfolio"
+	contact = "Contact"
+
+	[params.hero]
+	slogan = "地図が動けば、あなたの街はもっと輝いて見える。"
+	subtitle = "地図を動かして街の魅力をもっと発信しよう。そこには必ず、動いている地図を観たい人が居る。"
+	buttonText = "もっと見る"
+
+	[params.about]
+	headline = "「動く・動かせる地図」で未来を作る。"
+	description = "近年の技術の進歩により、ただの平面の絵だった地図は立体化し、触ることもできるようになりました。これに伴い、従来の地図では成し得なかった新たな地図媒体の活用方法が模索されています。例えば<b>列車やバスを時刻表通りに地図上に走らせるだけでも、何も走らない地図と比較して段違いに人目を引く</b>のです。"
+	buttonText = "もっと見る"
+
+	[params.services]
+	headline = "我々は「動く・動かせる地図」のエキスパートです。"
+
+		[[params.services.list]]
+		icon = "fa-cloud"
+		title = "データ配信クライドプラットフォームの提供"
+		description = "オギクボ開発が開発いたしました移動体データ作成プラットフォーム「Vera-city」をご提供いたします。"
+
+		[[params.services.list]]
+		icon = "fa-pencil"
+		title = "コンテンツ作成"
+		description = "列車・バス・船舶・航空機を地図上に走らせるためには、とても多くのデータが必要です。オギクボ開発では、走らせるデータの量に応じて、データ作成業務を受託いたします。"
+
+		[[params.services.list]]
+		icon = "fa-support"
+		title = "ライブラリ提供・サポート"
+		description = "オギクボ開発が開発いたしました4次元地図ライブラリをご提供いたします。Android・iOS・HTML5・PCにて動作いたします。"
+
+		[[params.services.list]]
+		icon = "fa-lightbulb-o"
+		title = "企画・導入"
+		description = "各所で得られた知見をもとに、効果的な新規媒体の企画し、導入のお手伝いをいたします。"
+
+	[params.portfolio.modal]
+	client = "神戸市様"
+	date = "2016-5-18"
+	category = "Signage"
+	buttonText = "Close"
+
+	[params.contact]
+	headline = "お問い合わせ"
+	description = "お問い合わせはメールにてお願いいたします。"
+	phone = "090-XXXX-XXXX"
+	email = "xor@ogiqvo.com"
+	
